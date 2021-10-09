@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "GSID30 | Converence"
+title = "GSID30th | Anniversary"
 theme = "eventre-hugo"
 themesDir = "../.."
 # post pagination
@@ -135,8 +135,8 @@ weight = 60
 #################### default parameters ################################
 [params]
 logo = "images/logo-nagoya.png"
-logo_footer = "images/footer-logo.png"
-logo_width = "100px"
+logo_footer = "images/footer-logo3.png"
+logo_width = "300px"
 # Meta data
 description = "This is meta description"
 author = "GSID"
@@ -155,7 +155,7 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 label = "Register"
 icon = "images/icon/ticket.png"
-link = "/"
+link = "https://lu.ma/gsid30"
 
 # Subscription
 [params.subscription]
