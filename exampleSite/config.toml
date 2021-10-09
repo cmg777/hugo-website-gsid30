@@ -71,19 +71,19 @@ url = "/"
 weight = 10
 
 [[menu.main]]
-name = "Call for papers"
-url = "https://carlos-mendez.org"
-weight = 15
-
-[[menu.main]]
 name = "About"
 url = "about"
 weight = 20
 
 [[menu.main]]
-name = "Speakers"
+name = "Keynote speakers"
 url = "speaker"
 weight = 30
+
+[[menu.main]]
+name = "Call for papers"
+url = "https://carlos-mendez.org"
+weight = 15
 
 [[menu.main]]
 name = "Announcements"
