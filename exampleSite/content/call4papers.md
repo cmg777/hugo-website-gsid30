@@ -10,7 +10,8 @@ image : "images/speakers/featured-speaker.jpg"
 
 ## Call for papers
 
-This can be the call for papers
+
+This can be the call for papers. Here is a link https://carlos-mendez.org
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore
 magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
