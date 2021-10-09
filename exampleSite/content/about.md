@@ -5,18 +5,13 @@ date: 2020-03-14T15:40:24+06:00
 description : "this is meta description"
 draft : false
 layout : "about"
-image : "images/speakers/featured-speaker.jpg"
+image : "images/speakers/aya-okada.jpg"
 
 ---
 
 ## About _GSID30_
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore
-magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
+Established in 1991 at Nagoya University in Japan, GSID is a pioneering and leading graduate school specializing in international development. Over the last thirty years, GSID has been engaged in research and education in international development in developing countries, particularly in Asia, focusing on a wide range of issues that constrain the promotion of socioeconomic development such as poverty, inequality, and conflict, while proposing various strategies for solving these issues.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et
-dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et
-dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
+Add more content ...
