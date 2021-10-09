@@ -63,25 +63,31 @@ tab:
       subject : "Introduction to Wp"
       venue : "https://lu.ma/hhix8v7o"
       time : "9.00 AM"
+    # speaker
+    - speaker : "Carlos Mendez"
+      speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
+      subject : "Sustainable development and spatial data science"
+      venue : "https://lu.ma/e558dxgw"
+      time : "9.00 AM"
       
     # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Introduction to Wp"
+    - speaker : "Carlos Mendez"
+      speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
+      subject : "Regional inequality and development: A view from outerspace"
+      venue : "https://lu.ma/e558dxgw"
+      time : "9.00 AM"
+      
+    # speaker
+    - speaker : "Francis Peddie"
+      speaker_image : "images/speakers/francis-peddie-thumb.jpg"
+      subject : "Migration and Development"
       venue : "Auditorium A"
       time : "9.00 AM"
       
     # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Introduction to Wp"
+    - speaker : "Francis Peddie"
+      speaker_image : "images/speakers/francis-peddie-thumb.jpg"
+      subject : "Peace and Governance: Spotlight on new research"
       venue : "Auditorium A"
       time : "9.00 AM"
       
@@ -100,20 +106,6 @@ tab:
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
@@ -159,33 +151,46 @@ tab:
       time : "9.00 AM"
       
     # speaker
+    - speaker : "Carlos Mendez"
+      speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
+      subject : "Sustainable development and spatial data science"
+      venue : "https://lu.ma/e558dxgw"
+      time : "9.00 AM"
+      
+    # speaker
+    - speaker : "Carlos Mendez"
+      speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
+      subject : "Regional inequality and development: A view from outerspace"
+      venue : "https://lu.ma/e558dxgw"
+      time : "9.00 AM"
+      
+    # speaker
+    - speaker : "Francis Peddie"
+      speaker_image : "images/speakers/francis-peddie-thumb.jpg"
+      subject : "Migration and Development"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+      
+    # speaker
+    - speaker : "Francis Peddie"
+      speaker_image : "images/speakers/francis-peddie-thumb.jpg"
+      subject : "Peace and Governance: Spotlight on new research"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Introduction to Wp"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+      
+    # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
 
 ############ Registration ####################
 registration:

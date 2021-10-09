@@ -9,9 +9,8 @@ image : "images/speakers/featured-speaker.jpg"
 
 ---
 
-## About The _Eventre_
+## About _GSID30_
 
-This can be the call for papers
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore
 magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
