@@ -1,14 +1,14 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : "Business"
-  heading_2 : "Conference 2017"
-  content : "02-05 July 2017 California"
+  heading : "GSID 30"
+  heading_2 : "Anniversary Conference 2012"
+  content : "02-05 February 2022 Nagoya"
   timer:
     enable : true
-    year : 2021
-    month : 9
-    day : 1
+    year : 2022
+    month : 2
+    day : 5
   button:
     enable : true
     label : "get ticket now"
@@ -18,14 +18,14 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "About The _Eventre_"
+  title : "About the conference"
   image : "images/speakers/featured-speaker.jpg"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
   <br><br>
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
   button_solid:
     enable : true
-    label : "Buy ticket"
+    label : "Register"
     link : "#"
   button_outline:
     enable : true
