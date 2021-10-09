@@ -83,7 +83,7 @@ weight = 30
 [[menu.main]]
 name = "Call for papers"
 url = "https://carlos-mendez.org"
-weight = 15
+weight = 35
 
 [[menu.main]]
 name = "Announcements"
