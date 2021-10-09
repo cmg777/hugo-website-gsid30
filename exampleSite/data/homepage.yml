@@ -1,9 +1,9 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : "GSID 30"
-  heading_2 : "Anniversary Conference 2022"
-  content : "02-05 February 2022 Nagoya"
+  heading : "GSID 30th"
+  heading_2 : "Anniversary Symposium 2022"
+  content : "02-05 February 2022 Nagoya, Japan"
   timer:
     enable : true
     year : 2022

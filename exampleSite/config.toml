@@ -134,7 +134,7 @@ weight = 60
 
 #################### default parameters ################################
 [params]
-logo = "images/logo-gsid.png"
+logo = "images/logo-nagoya.jpg"
 logo_footer = "images/footer-logo.png"
 logo_width = "100px"
 # Meta data
