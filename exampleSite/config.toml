@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "Eventre Hugo | Event Management Template"
+title = "GSID30 | Converence"
 theme = "eventre-hugo"
 themesDir = "../.."
 # post pagination
@@ -76,12 +76,12 @@ url = "about"
 weight = 2
 
 [[menu.main]]
-name = "Speaker"
+name = "Speakers"
 url = "speaker"
 weight = 3
 
 [[menu.main]]
-name = "Blog"
+name = "Announcements"
 url = "blog"
 weight = 4
 
@@ -129,7 +129,7 @@ logo_footer = "images/footer-logo.png"
 logo_width = "100px"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "GSID"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
