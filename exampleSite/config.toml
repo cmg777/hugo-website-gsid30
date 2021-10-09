@@ -82,7 +82,7 @@ weight = 20
 
 [[menu.main]]
 name = "Call for papers"
-url = "https://carlos-mendez.org"
+url = "call4papers"
 weight = 35
 
 [[menu.main]]
