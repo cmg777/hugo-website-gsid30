@@ -86,6 +86,11 @@ url = "https://carlos-mendez.org"
 weight = 35
 
 [[menu.main]]
+name = "Schedule"
+url = "schedule"
+weight = 38
+
+[[menu.main]]
 name = "Announcements"
 url = "blog"
 weight = 40

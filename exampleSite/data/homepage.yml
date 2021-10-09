@@ -18,7 +18,7 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "About the conference"
+  title : "About GSID 30"
   image : "images/speakers/featured-speaker.jpg"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
   <br><br>
@@ -36,7 +36,7 @@ about:
 ################# Speaker ###################
 speakers:
   enable : true
-  title : "Who _Speaking?_"
+  title : "Keynote speakers"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   # speaker items are coming from "content/speakers" folder
 
