@@ -75,10 +75,10 @@ name = "About"
 url = "about"
 weight = 20
 
-[[menu.main]]
-name = "Keynote speakers"
-url = "speaker"
-weight = 30
+#[[menu.main]]
+#name = "Keynote speakers"
+#url = "speaker"
+#weight = 30
 
 [[menu.main]]
 name = "Call for papers"
@@ -115,10 +115,10 @@ hasChildren = true
   name = "Pricing"
   url = "pricing"
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "Schedule"
-  url = "schedule"
+  #[[menu.main]]
+  #parent = "Pages"
+  #name = "Schedule"
+  #url = "schedule"
 
   [[menu.main]]
   parent = "Pages"
