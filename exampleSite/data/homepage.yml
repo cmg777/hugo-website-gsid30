@@ -12,7 +12,7 @@ banner:
   button:
     enable : true
     label : "Register"
-    link : "https://lu.ma/quarcs-network"
+    link : "https://lu.ma/gsid30"
 
     
 ################# About ###################
@@ -26,7 +26,7 @@ about:
   button_solid:
     enable : true
     label : "Register"
-    link : "#"
+    link : "https://lu.ma/gsid30"
   button_outline:
     enable : true
     label : "Read more"
@@ -194,7 +194,7 @@ tab:
 
 ############ Registration ####################
 registration:
-  enable : true
+  enable : false
   title : "Register to _Eventre_"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
   form_action : "#" # works with formspree.io
@@ -215,53 +215,16 @@ registration:
 
 
 
-############ Pricing ####################
-pricing:
-  enable : true
-  title : "Get _Ticket_"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
-  pricing_table:
-  - name : "Starter"
-    price : "39.00"
-    price_per : "Person"
-    button_link : "#"
-    features:
-    - "1 Comfortable Seats"
-    - "Free Lunch and Coffee"
-    - "Certificate"
-    - "Easy Access"
-    
-  - name : "Standard"
-    price : "49.00"
-    price_per : "Person"
-    button_link : "#"
-    features:
-    - "1 Comfortable Seats"
-    - "Free Lunch and Coffee"
-    - "Certificate"
-    - "Easy Access"
-    
-  - name : "Platinum"
-    price : "99.00"
-    price_per : "Person"
-    button_link : "#"
-    features:
-    - "1 Comfortable Seats"
-    - "Free Lunch and Coffee"
-    - "Certificate"
-    - "Easy Access"
-
-
 ############### Call to action ############
 call_to_action:
   enable : true
-  title : "Get Ticket _Now!_"
+  title : "Register _Now!_"
   image : "images/speakers/speaker-ticket.png"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmtempor incidi"
   button:
     enable : true
-    label : "Buy ticket"
-    link : "#"
+    label : "Register here"
+    link : "https://lu.ma/gsid30"
 
 
 ############### Sponsors ##################

@@ -110,20 +110,20 @@ hasChildren = true
   name = "FAQ"
   url = "faq"
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  url = "pricing"
+  #[[menu.main]]
+  #parent = "Pages"
+  #name = "Pricing"
+  #url = "pricing"
 
   #[[menu.main]]
   #parent = "Pages"
   #name = "Schedule"
   #url = "schedule"
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "Testimonial"
-  url = "testimonial"
+  #[[menu.main]]
+  #parent = "Pages"
+  #name = "Testimonial"
+  #url = "testimonial"
   
 [[menu.main]]
 name = "Contact"
