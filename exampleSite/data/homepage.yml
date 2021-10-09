@@ -233,11 +233,11 @@ sponsors:
   title : "Our _Sponsors_"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore dolore"
   button:
-    enable : true
+    enable : false
     label : "Become a sponsor"
     link : "#"
   sponsor_group:
-  - name : "Platinum Sponsors"
+  - name : ""
     sponsor_item:
     - name : "sponsor"
       logo : "images/sponsors/pt-spon-two.png"
@@ -255,16 +255,3 @@ sponsors:
       logo : "images/sponsors/pt-spon-three.png"
       link : "#"
       
-  - name : "Gold Sponsors"
-    sponsor_item:
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-two.png"
-      link : "#"
-      
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-three.png"
-      link : "#"
-      
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-one.png"
-      link : "#"
