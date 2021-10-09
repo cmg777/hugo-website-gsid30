@@ -168,7 +168,7 @@ content = "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm 
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyB_DUcYCH7ecnUR-h2Cv6y_1uQ1biFV981"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
