@@ -68,25 +68,30 @@ attributes = ""
 [[menu.main]]
 name = "Home"
 url = "/"
-weight = 1
+weight = 10
+
+[[menu.main]]
+name = "Call for papers"
+url = "https://carlos-mendez.org"
+weight = 15
 
 [[menu.main]]
 name = "About"
 url = "about"
-weight = 2
+weight = 20
 
 [[menu.main]]
 name = "Speakers"
 url = "speaker"
-weight = 3
+weight = 30
 
 [[menu.main]]
 name = "Announcements"
 url = "blog"
-weight = 4
+weight = 40
 
 [[menu.main]]
-weight = 5
+weight = 50
 name = "Pages"
 hasChildren = true
 
@@ -118,7 +123,7 @@ hasChildren = true
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 6
+weight = 60
 
 
 
@@ -143,7 +148,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Buy Ticket"
+label = "Register"
 icon = "images/icon/ticket.png"
 link = "/"
 
@@ -159,7 +164,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 # google map
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyB_DUcYCH7ecnUR-h2Cv6y_1uQ1biFV980"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
