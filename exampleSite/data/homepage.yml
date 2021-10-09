@@ -2,7 +2,7 @@
 banner:
   enable : true
   heading : "GSID 30"
-  heading_2 : "Anniversary Conference 2012"
+  heading_2 : "Anniversary Conference 2022"
   content : "02-05 February 2022 Nagoya"
   timer:
     enable : true
@@ -11,8 +11,8 @@ banner:
     day : 5
   button:
     enable : true
-    label : "get ticket now"
-    link : "#"
+    label : "Register"
+    link : "https://lu.ma/quarcs-network"
 
     
 ################# About ###################
