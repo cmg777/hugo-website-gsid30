@@ -272,7 +272,7 @@ sponsors:
       logo : "images/sponsors/pt-spon-four.png"
       link : "#"
       
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-three.png"
-      link : "#"
+    - name : "QuaRCS network"
+      logo : "images/sponsors/quarcs.png"
+      link : "https://quarcs-lab.org"
       
