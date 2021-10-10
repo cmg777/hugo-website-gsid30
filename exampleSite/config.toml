@@ -136,14 +136,14 @@ weight = 60
 [params]
 logo = "images/logo-nagoya.png"
 logo_footer = "images/footer-logo.png"
-logo_width = "100px"
+logo_width = "50px"
 # Meta data
 description = "This is meta description"
 author = "GSID"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [Themefisher](https://themefisher.com/), Developed By [Gethugothemes](https://gethugothemes.com/), and Adapted By [Carlos Mendez](https://carlos-mendez.org)"
 
 # Preloader
 [params.preloader]
