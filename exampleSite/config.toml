@@ -96,19 +96,29 @@ url = "blog"
 weight = 40
 
 [[menu.main]]
-weight = 50
-name = "Pages"
-hasChildren = true
+name = "Gallery"
+url = "gallery"
+weight = 41
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "Gallery"
-  url = "gallery"
+[[menu.main]]
+name = "FAQ"
+url = "faq"
+weight = 42
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  url = "faq"
+#[[menu.main]]
+#weight = 50
+#name = "Pages"
+#hasChildren = true
+
+  #[[menu.main]]
+  #parent = "Pages"
+  #name = "Gallery"
+  #url = "gallery"
+
+  #[[menu.main]]
+  #parent = "Pages"
+  #name = "FAQ"
+  #url = "faq"
 
   #[[menu.main]]
   #parent = "Pages"
@@ -125,10 +135,10 @@ hasChildren = true
   #name = "Testimonial"
   #url = "testimonial"
   
-[[menu.main]]
-name = "Contact"
-url = "https://lu.ma/gsid30"
-weight = 60
+#[[menu.main]]
+#name = "Contact"
+#url = "https://lu.ma/gsid30"
+#weight = 60
 
 
 
