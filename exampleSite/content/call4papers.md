@@ -9,8 +9,6 @@ image : "images/speakers/featured-speaker-two.jpg"
 ---
 ## Call for papers
 
-The 2022 GSID international conference and symposium will be held from February 5th to 9th. These events are open for the worldwide community of scholars and the GSID community.  They aim to bring together multidisciplinary perspectives on sustinable development. For that purpose, we will organize a series of online events in which scholars, alumni, and students present and discuss their research findings. 
-
 The orgaizational comitee of the 2022 GSID international conference invites the worldwide community of scholars and the GSID community to present and their research findinds in the following thematic areas:   
 
 - Migration and Development
@@ -29,10 +27,11 @@ The orgaizational comitee of the 2022 GSID international conference invites the 
 - Extended abstract submission deadline: TBA, 2021.
 - Notification of abstract acceptance: TBA, 2021.
 - Conference registration deadline: TBA, 2021.
+- Conference dates: February 5th to 9th, 2022.
   
 All the information about the Conference is available at the web page TBA. Authors of the best abstracts and presentations will be invided to submit and publish their findings in a special issue of the [Forum of International Development Studies](https://www4.gsid.nagoya-u.ac.jp/en/research/publications)
 
 
 ### Abstract submission form 
 
-- [_Submit your abstract here_](https://docs.google.com/forms/d/e/1FAIpQLSd748_Hr0vEjXIOPUZLMNUki-_RuLyWUg2aYQuaYHArVxpggw/viewform?usp=sf_link)
+- [_CLICK HERE to submit your abstract_](https://docs.google.com/forms/d/e/1FAIpQLSd748_Hr0vEjXIOPUZLMNUki-_RuLyWUg2aYQuaYHArVxpggw/viewform?usp=sf_link)

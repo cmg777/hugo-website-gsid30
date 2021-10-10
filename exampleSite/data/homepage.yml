@@ -65,6 +65,13 @@ tab:
       time : "9.00 AM"
 
     # speaker
+    - speaker : "Shoko Yamada"
+      speaker_image : "images/speakers/shoko-yamada-thumb.jpg"
+      subject : "Africa as the center for global change"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
     - speaker : "Carlos Mendez"
       speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
       subject : "Sustainable development and spatial data science"
@@ -89,13 +96,6 @@ tab:
     - speaker : "Francis Peddie"
       speaker_image : "images/speakers/francis-peddie-thumb.jpg"
       subject : "Peace and Governance: Spotlight on new research"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Shoko Yamada"
-      speaker_image : "images/speakers/shoko-yamada-thumb.jpg"
-      subject : "Africa as the center for global change"
       venue : "Auditorium A"
       time : "9.00 AM"
 
