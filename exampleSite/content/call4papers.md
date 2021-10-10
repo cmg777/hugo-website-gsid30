@@ -9,14 +9,30 @@ image : "images/speakers/featured-speaker-two.jpg"
 ---
 ## Call for papers
 
+The 2022 GSID international conference and symposium will be held from February 5th to 9th. These events are open for the worldwide community of scholars and the GSID community.  They aim to bring together multidisciplinary perspectives on sustinable development. For that purpose, we will organize a series of online events in which scholars, alumni, and students present and discuss their research findings. 
 
-This can be the call for papers. Here is a link https://carlos-mendez.org
+The orgaizational comitee of the 2022 GSID international conference invites the worldwide community of scholars and the GSID community to present and their research findinds in the following thematic areas:   
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore
-magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
+- Migration and Development
+- Peace and Governance
+- Regional inequality
+- Sustainable development and spatial data science
+- Africa as the center for global change
+- Local perceptions to energy and resource development in developing countries
+- Social Protection in the Age of Pandemic
+- Promoting education during conflicts, disasters, and pandemics
+- The Social Sector Under COVID-19: Health and Welfare
+- The Rule of Law for development
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et
-dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
+### Important dates
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et
-dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
+- Extended abstract submission deadline: TBA, 2021.
+- Notification of abstract acceptance: TBA, 2021.
+- Conference registration deadline: TBA, 2021.
+  
+All the information about the Conference is available at the web page TBA. Authors of the best abstracts and presentations will be invided to submit and publish their findings in a special issue of the [Forum of International Development Studies](https://www4.gsid.nagoya-u.ac.jp/en/research/publications)
+
+
+### Abstract submission form 
+
+- [Submit your abstract here](https://docs.google.com/forms/d/e/1FAIpQLSd748_Hr0vEjXIOPUZLMNUki-_RuLyWUg2aYQuaYHArVxpggw/viewform?usp=sf_link)
