@@ -3,7 +3,7 @@ banner:
   enable : true
   heading : "GSID 30th"
   heading_2 : "Anniversary Symposium 2022"
-  content : "02-05 February 2022 Nagoya, Japan"
+  content : "5-9 February 2022 Nagoya, Japan"
   timer:
     enable : true
     year : 2022
@@ -51,18 +51,19 @@ tab:
     date : "20 November 2017"
     tablist_items:
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "Name of keynote speaker"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Introduction to Wp"
+      subject : "Presentation title of the keynote speaker"
       venue : "Auditorium A"
       time : "9.00 AM"
 
     # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Introduction to Wp"
-      venue : "https://lu.ma/hhix8v7o"
+    - speaker : "Yuzuru Shimada"
+      speaker_image : "images/speakers/smile.jpg"
+      subject : "The Rule of Law for development"
+      venue : "Auditorium A"
       time : "9.00 AM"
+
     # speaker
     - speaker : "Carlos Mendez"
       speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
@@ -92,13 +93,33 @@ tab:
       time : "9.00 AM"
       
     # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
+    - speaker : "Shoko Yamada"
+      speaker_image : "images/speakers/smile.jpg"
+      subject : "Africa as the center for global change"
       venue : "Auditorium A"
       time : "9.00 AM"
 
+    # speaker
+    - speaker : "Isamu Okada"
+      speaker_image : "images/speakers/smile.jpg"
+      subject : "Local perceptions to energy and resource development in developing countries"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
+    # speaker
+    - speaker : "Yuji Utsumi"
+      speaker_image : "images/speakers/smile.jpg"
+      subject : "Promoting education during conflicts, disasters, and pandemics"
+      venue : "Auditorium A"
+      time : "9.00 AM"
       
+    # speaker
+    - speaker : "Reiko Kanazawa"
+      speaker_image : "images/speakers/smile.jpg"
+      subject : "The Social Sector Under COVID-19: Health and Welfare"
+      venue : "Auditorium A"
+      time : "9.00 AM"
+
   # tab item
   - name : "Day-02"
     date : "23 November 2017"

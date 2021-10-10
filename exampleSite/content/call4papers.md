@@ -35,4 +35,4 @@ All the information about the Conference is available at the web page TBA. Autho
 
 ### Abstract submission form 
 
-- [Submit your abstract here](https://docs.google.com/forms/d/e/1FAIpQLSd748_Hr0vEjXIOPUZLMNUki-_RuLyWUg2aYQuaYHArVxpggw/viewform?usp=sf_link)
+- [_Submit your abstract here_](https://docs.google.com/forms/d/e/1FAIpQLSd748_Hr0vEjXIOPUZLMNUki-_RuLyWUg2aYQuaYHArVxpggw/viewform?usp=sf_link)
