@@ -2,7 +2,7 @@
 title : "Elementum purus id ultrices."
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-image: "images/news/post-thumb-four.jpg"
+image: "images/news/post-thumb-one.jpg"
 author: "Admin"
 author_id: "https://linkedin.com/in/#"
 tags: ["business", "planner"]
