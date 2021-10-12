@@ -84,7 +84,14 @@ tab:
       subject : "Regional inequality and development: A view from outerspace"
       venue : "https://lu.ma/e558dxgw"
       time : "9.00 AM"
-      
+  
+    # speaker
+    - speaker : "Carlos Mendez"
+      speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
+      subject : "GSID's online overseas field work: Development challenges in the Phillipines"
+      venue : "https://lu.ma/e558dxgw"
+      time : "9.00 AM"
+
     # speaker
     - speaker : "Francis Peddie"
       speaker_image : "images/speakers/francis-peddie-thumb.jpg"
