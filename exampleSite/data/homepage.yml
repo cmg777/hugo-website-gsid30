@@ -18,7 +18,7 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "GSID 30th Anniversary"
+  title : "GSID's 30th Anniversary"
   image : "images/speakers/aya-okada.jpg"
   content : "Established in 1991 at Nagoya University in Japan, GSID is a pioneering and leading graduate school specializing in international development. 
    <br><br>
@@ -37,7 +37,7 @@ about:
 speakers:
   enable : true
   title : "Keynote speakers"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  content : "To be announced soon."
   # speaker items are coming from "content/speakers" folder
 
 ###################### Tab ####################
@@ -56,70 +56,49 @@ tab:
       speaker_image : "images/speakers/smile.jpg"
       subject : "The Rule of Law for development"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
 
     # speaker
     - speaker : "Shoko Yamada"
       speaker_image : "images/speakers/shoko-yamada-thumb.jpg"
       subject : "Africa as the center for global change"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
 
     # speaker
     - speaker : "Carlos Mendez"
       speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
       subject : "Sustainable development and spatial data science"
       venue : "https://lu.ma/e558dxgw"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Carlos Mendez"
-      speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
-      subject : "Regional inequality and development: A view from outerspace"
-      venue : "https://lu.ma/e558dxgw"
-      time : "9.00 AM"
-  
-    # speaker
-    - speaker : "Carlos Mendez"
-      speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
-      subject : "GSID's online overseas field work: Development challenges in the Philippines"
-      venue : "https://lu.ma/e558dxgw"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Francis Peddie"
-      speaker_image : "images/speakers/francis-peddie-thumb.jpg"
-      subject : "Migration and Development"
-      venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
       
     # speaker
     - speaker : "Francis Peddie"
       speaker_image : "images/speakers/francis-peddie-thumb.jpg"
       subject : "Peace and Governance: Spotlight on new research"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
 
     # speaker
     - speaker : "Isamu Okada"
       speaker_image : "images/speakers/smile.jpg"
       subject : "Local perceptions to energy and resource development in developing countries"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
 
     # speaker
     - speaker : "Yuji Utsumi"
       speaker_image : "images/speakers/utsumi-thumb.jpg"
       subject : "Promoting education during conflicts, disasters, and pandemics"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
       
     # speaker
     - speaker : "Reiko Kanazawa"
       speaker_image : "images/speakers/smile.jpg"
       subject : "The Social Sector Under COVID-19: Health and Welfare"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
 
   # tab item
   - name : "Day-02"
@@ -130,28 +109,29 @@ tab:
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
       
     # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
+    - speaker : "Carlos Mendez"
+      speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
+      subject : "Regional inequality and development: A view from outerspace"
+      venue : "https://lu.ma/e558dxgw"
+      time : "TBA"
+
+
     # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Introduction to Wp"
+    - speaker : "Francis Peddie"
+      speaker_image : "images/speakers/francis-peddie-thumb.jpg"
+      subject : "Migration and Development"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
       
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
 
       
   # tab item
@@ -163,14 +143,14 @@ tab:
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
 
     # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
+    - speaker : "Carlos Mendez"
+      speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
+      subject : "GSID's online overseas field work: Development challenges in the Philippines"
+      venue : "https://lu.ma/e558dxgw"
+      time : "TBA"
 
   # tab item
   - name : "Day-04"
@@ -182,14 +162,14 @@ tab:
       speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
       subject : "Sustainable development and spatial data science"
       venue : "https://lu.ma/e558dxgw"
-      time : "9.00 AM"
+      time : "TBA"
       
     # speaker
     - speaker : "Carlos Mendez"
       speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
       subject : "Regional inequality and development: A view from outerspace"
       venue : "https://lu.ma/e558dxgw"
-      time : "9.00 AM"
+      time : "TBA"
   
   # tab item
   - name : "Day-05"
@@ -202,28 +182,28 @@ tab:
       speaker_image : "images/speakers/francis-peddie-thumb.jpg"
       subject : "Migration and Development"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
       
     # speaker
     - speaker : "Francis Peddie"
       speaker_image : "images/speakers/francis-peddie-thumb.jpg"
       subject : "Peace and Governance: Spotlight on new research"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
 
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-two.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
       
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
-      time : "9.00 AM"
+      time : "TBA"
 
 ############ Registration ####################
 registration:
