@@ -10,7 +10,7 @@ banner:
     month : 2
     day : 5
   button:
-    enable : true
+    enable : false
     label : "Register for the 30th anniversary of GSID"
     link : "https://lu.ma/gsid30"
 
