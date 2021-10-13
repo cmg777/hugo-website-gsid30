@@ -1,9 +1,9 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : "_"
-  heading_2 : "_"
-  content : "_"
+  heading : ""
+  heading_2 : ""
+  content : ""
   timer:
     enable : true
     year : 2022
@@ -11,7 +11,7 @@ banner:
     day : 5
   button:
     enable : false
-    label : "Register for the 30th anniversary of GSID"
+    label : "Register"
     link : "https://lu.ma/gsid30"
 
     
