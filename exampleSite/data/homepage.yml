@@ -1,9 +1,9 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : ""
-  heading_2 : ""
-  content : ""
+  heading : "_"
+  heading_2 : "_"
+  content : "_"
   timer:
     enable : true
     year : 2022
