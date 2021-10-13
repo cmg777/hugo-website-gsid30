@@ -1,9 +1,9 @@
 ################# Banner ###################
 banner:
-  enable : false
+  enable : true
   heading : ""
   heading_2 : ""
-  content : "5-9 February 2022 Nagoya, Japan"
+  content : ""
   timer:
     enable : true
     year : 2022
@@ -11,7 +11,7 @@ banner:
     day : 5
   button:
     enable : true
-    label : "Register"
+    label : "Register for the 30th anniversary of GSID"
     link : "https://lu.ma/gsid30"
 
     
