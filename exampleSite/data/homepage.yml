@@ -48,14 +48,8 @@ tab:
   tablist:
   # tab item
   - name : "Day-01"
-    date : "20 November 2017"
+    date : "05 February 2022"
     tablist_items:
-    # speaker
-    - speaker : "Name of keynote speaker"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Presentation title of the keynote speaker"
-      venue : "Auditorium A"
-      time : "9.00 AM"
 
     # speaker
     - speaker : "Yuzuru Shimada"
@@ -129,7 +123,7 @@ tab:
 
   # tab item
   - name : "Day-02"
-    date : "23 November 2017"
+    date : "06 February 2022"
     tablist_items:
     # speaker
     - speaker : "Samanta Doe"
@@ -162,7 +156,7 @@ tab:
       
   # tab item
   - name : "Day-03"
-    date : "25 November 2017"
+    date : "07 February 2022"
     tablist_items:
     # speaker
     - speaker : "Samanta Doe"
@@ -177,6 +171,11 @@ tab:
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
+
+  # tab item
+  - name : "Day-04"
+    date : "08 February 2022"
+    tablist_items:  
       
     # speaker
     - speaker : "Carlos Mendez"
@@ -191,7 +190,13 @@ tab:
       subject : "Regional inequality and development: A view from outerspace"
       venue : "https://lu.ma/e558dxgw"
       time : "9.00 AM"
+  
+  # tab item
+  - name : "Day-05"
+    date : "09 February 2022"
+    tablist_items:      
       
+
     # speaker
     - speaker : "Francis Peddie"
       speaker_image : "images/speakers/francis-peddie-thumb.jpg"
@@ -248,7 +253,7 @@ call_to_action:
   enable : true
   title : "Register _Now!_"
   image : "images/speakers/speaker-ticket.png"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmtempor incidi"
+  content : "Registration is free"
   button:
     enable : true
     label : "Register here"
