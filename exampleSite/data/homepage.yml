@@ -231,9 +231,9 @@ registration:
 ############### Call to action ############
 call_to_action:
   enable : true
-  title : "Register _Now!_"
+  title : "Register and _participate!_"
   image : "images/speakers/speaker-ticket.png"
-  content : "Registration is free of charge for all participants."
+  content : "Registration is free of charge."
   button:
     enable : true
     label : "Register here"
