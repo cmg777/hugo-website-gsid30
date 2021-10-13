@@ -1,8 +1,8 @@
 ################# Banner ###################
 banner:
-  enable : true
+  enable : false
   heading : ""
-  heading_2 : "30th Anniversary"
+  heading_2 : ""
   content : "5-9 February 2022 Nagoya, Japan"
   timer:
     enable : true
