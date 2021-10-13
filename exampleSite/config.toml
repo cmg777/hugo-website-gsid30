@@ -146,7 +146,7 @@ weight = 42
 [params]
 logo = "images/logo-nagoya.png"
 logo_footer = "images/footer-logo.png"
-logo_width = "50px"
+logo_width = "70px"
 # Meta data
 description = "This is meta description"
 author = "GSID"
