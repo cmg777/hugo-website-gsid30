@@ -44,7 +44,7 @@ speakers:
 tab:
   enable : true
   title : "Event Schedule"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  content : "The time and registration links for each event will be announced soon."
   tablist:
   # tab item
   - name : "Day-01"
