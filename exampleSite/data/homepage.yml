@@ -192,17 +192,17 @@ tab:
       time : "TBA"
 
     # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Introduction to Wp"
+    - speaker : "Francis Peddie"
+      speaker_image : "images/speakers/francis-peddie-thumb.jpg"
+      subject : "Afghanistan in Crisis: Implications for Peace, Governance and Development"
       venue : "Auditorium A"
       time : "TBA"
       
     # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
+    - speaker : "Carlos Mendez"
+      speaker_image : "images/speakers/carlos-mendez-thumb.jpg"
+      subject : "GSID's OFW went Online: Educational challenges during COVID-19 in the Philippines"
+      venue : "https://lu.ma/e558dxgw"
       time : "TBA"
 
 ############ Registration ####################

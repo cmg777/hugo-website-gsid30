@@ -11,22 +11,24 @@ image : "images/speakers/featured-speaker-two.jpg"
 
 The orgaizational comitee of the 2022 GSID international conference invites the worldwide community of scholars and the GSID community to present and their research findinds in the following thematic areas:   
 
-- Migration and Development
-- Peace and Governance
-- Regional inequality
+- Migration and development
+- Economic growth, poverty, and inequality
 - Sustainable development and spatial data science
+- Peace and governance
+- Afghanistan in crisis: Implications for peace, governance and development
 - Africa as the center for global change
 - Local perceptions to energy and resource development in developing countries
-- Social Protection in the Age of Pandemic
+- Social protection in the age of pandemic
 - Promoting education during conflicts, disasters, and pandemics
-- The Social Sector Under COVID-19: Health and Welfare
-- The Rule of Law for development
+- The social sector Under COVID-19: Health and Welfare
+- The rule of law for development
+
 
 ### Important dates
 
-- Extended abstract submission deadline: TBA, 2021.
-- Notification of abstract acceptance: TBA, 2021.
-- Conference registration deadline: TBA, 2021.
+- Extended abstract submission deadline: December 20th, 2021.
+- Notification of abstract acceptance: January 15th, 2021.
+- Conference registration deadline: February 5th, 2021.
 - Conference dates: February 5th to 9th, 2022.
   
 All the information about the Conference is available at the web page TBA. Authors of the best abstracts and presentations will be invided to submit and publish their findings in a special issue of the [Forum of International Development Studies](https://www4.gsid.nagoya-u.ac.jp/en/research/publications)
