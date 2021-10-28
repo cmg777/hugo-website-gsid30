@@ -81,7 +81,7 @@ tab:
 
     # speaker
     - speaker : "Isamu Okada"
-      speaker_image : "images/speakers/smile.jpg"
+      speaker_image : "images/speakers/okadai.jpg"
       subject : "Local perceptions to energy and resource development in developing countries"
       venue : "Auditorium A"
       time : "TBA"
@@ -95,7 +95,7 @@ tab:
       
     # speaker
     - speaker : "Reiko Kanazawa"
-      speaker_image : "images/speakers/smile.jpg"
+      speaker_image : "images/speakers/kanazawa.jpg"
       subject : "The Social Sector Under COVID-19: Health and Welfare"
       venue : "Auditorium A"
       time : "TBA"
