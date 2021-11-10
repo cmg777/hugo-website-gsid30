@@ -15,3 +15,7 @@ image : "images/speakers/aya-okada.jpg"
 Established in 1991 at Nagoya University in Japan, GSID is a pioneering and leading graduate school specializing in international development. Over the last thirty years, GSID has been engaged in research and education in international development in developing countries, particularly in Asia, focusing on a wide range of issues that constrain the promotion of socioeconomic development such as poverty, inequality, and conflict, while proposing various strategies for solving these issues.
 
 Add more content ...
+
+Aya Okada, Ph.D.
+Dean and Professor
+Graduate School of International Development
