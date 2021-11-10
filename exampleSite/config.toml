@@ -92,8 +92,9 @@ weight = 35
 
 [[menu.main]]
 name = "About GSID"
-url = "https://www4.gsid.nagoya-u.ac.jp/en/"
+url = "https://www4.gsid.nagoya-u.ac.jp/en/general/features"
 weight = 40
+
 
 #[[menu.main]]
 #name = "Announcements"
