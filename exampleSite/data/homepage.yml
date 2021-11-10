@@ -258,7 +258,7 @@ call_to_action:
 sponsors:
   enable : true
   title : "Our _Sponsors_"
-  content : "We are grateful for the cooperation and support of the following organizations:"
+  content : "We are grateful for the cooperation and support of the following organizations: X, Y, Z"
   button:
     enable : false
     label : "Become a sponsor"
@@ -267,16 +267,16 @@ sponsors:
   - name : ""
     sponsor_item:
     - name : "sponsor"
-      logo : "images/sponsors/pt-spon-two.png"
-      link : "#"
+      logo : "images/sponsors/thers-univ.png"
+      link : "https://www.thers.ac.jp/"
       
     - name : "sponsor"
-      logo : "images/sponsors/pt-spon-three.png"
-      link : "#"
+      logo : "images/sponsors/nagoya-univ-en.png"
+      link : "http://en.nagoya-u.ac.jp/"
       
     - name : "sponsor"
-      logo : "images/sponsors/pt-spon-four.png"
-      link : "#"
+      logo : "images/sponsors/alumni.png"
+      link : "https://www2.gsid.nagoya-u.ac.jp/blog/alumni/"
       
  #   - name : "QuaRCS network"
  #     logo : "images/sponsors/quarcs.png"
