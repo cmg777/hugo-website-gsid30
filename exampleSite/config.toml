@@ -95,15 +95,15 @@ weight = 35
 #url = "blog"
 #weight = 40
 
-[[menu.main]]
-name = "Gallery"
-url = "gallery"
-weight = 41
+#[[menu.main]]
+#name = "Gallery"
+#url = "gallery"
+#weight = 41
 
-[[menu.main]]
-name = "FAQ"
-url = "faq"
-weight = 42
+#[[menu.main]]
+#name = "FAQ"
+#url = "faq"
+#weight = 42
 
 #[[menu.main]]
 #weight = 50
