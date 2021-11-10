@@ -267,15 +267,15 @@ sponsors:
   - name : ""
     sponsor_item:
     - name : "sponsor"
-      logo : "images/sponsors/thers-univ.png"
+      logo : "images/sponsors/sponsor1.png"
       link : "https://www.thers.ac.jp/"
       
     - name : "sponsor"
-      logo : "images/sponsors/nagoya-univ-en.png"
+      logo : "images/sponsors/sponsor2.png"
       link : "http://en.nagoya-u.ac.jp/"
       
     - name : "sponsor"
-      logo : "images/sponsors/alumni.png"
+      logo : "images/sponsors/sponsor3.png"
       link : "https://www2.gsid.nagoya-u.ac.jp/blog/alumni/"
       
  #   - name : "QuaRCS network"
