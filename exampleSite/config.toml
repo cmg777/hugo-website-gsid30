@@ -153,7 +153,7 @@ author = "GSID"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/), Developed By [Gethugothemes](https://gethugothemes.com/), and Adapted By [Carlos Mendez](https://carlos-mendez.org)"
+copyright = "Graduate School of International Development, Nagoya University, Furo-cho, Chikusa-ku, Nagoya 464-8601, Japan"
 
 # Preloader
 [params.preloader]
@@ -197,24 +197,24 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://www.facebook.com/staffer.iss"
 
 [[params.social]]
 title = "twitter"
 icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "#"
 
-[[params.social]]
-title = "instagram"
-icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+#[[params.social]]
+#title = "instagram"
+#icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+#link = "#"
 
 [[params.social]]
-title = "github"
-icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+title = "research"
+icon = "fa-graduation-cap" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www4.gsid.nagoya-u.ac.jp/en/"
 
-[[params.social]]
-title = "linkedin"
-icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+#[[params.social]]
+#title = "linkedin"
+#icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+#link = "#"
