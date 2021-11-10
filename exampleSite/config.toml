@@ -85,15 +85,15 @@ name = "Call for papers"
 url = "call4papers"
 weight = 35
 
-[[menu.main]]
-name = "Event Schedule"
-url = "schedule"
-weight = 38
+#[[menu.main]]
+#name = "Event Schedule"
+#url = "schedule"
+#weight = 38
 
-[[menu.main]]
-name = "Announcements"
-url = "blog"
-weight = 40
+#[[menu.main]]
+#name = "Announcements"
+#url = "blog"
+#weight = 40
 
 [[menu.main]]
 name = "Gallery"

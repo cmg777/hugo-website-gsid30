@@ -35,14 +35,14 @@ about:
     
 ################# Speaker ###################
 speakers:
-  enable : true
+  enable : false
   title : "Keynote speakers"
   content : "To be announced soon."
   # speaker items are coming from "content/speakers" folder
 
 ###################### Tab ####################
 tab:
-  enable : true
+  enable : false
   title : "Event Schedule"
   content : "The time and registration links for each event will be announced soon."
   tablist:
@@ -258,7 +258,7 @@ call_to_action:
 sponsors:
   enable : true
   title : "Our _Sponsors_"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore dolore"
+  content : "We are grateful for the cooperation and support of the following organizations:"
   button:
     enable : false
     label : "Become a sponsor"
@@ -278,7 +278,7 @@ sponsors:
       logo : "images/sponsors/pt-spon-four.png"
       link : "#"
       
-    - name : "QuaRCS network"
-      logo : "images/sponsors/quarcs.png"
-      link : "https://quarcs-lab.org"
+ #   - name : "QuaRCS network"
+ #     logo : "images/sponsors/quarcs.png"
+ #     link : "https://quarcs-lab.org"
       
