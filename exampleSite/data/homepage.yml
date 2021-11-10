@@ -52,9 +52,22 @@ tab:
     tablist_items:
 
     # speaker
+
+    - speaker : "Aya Okada"
+      speaker_image : "images/speakers/aokada.jpg"
+      subject : "Gender and development"
+      venue : "Auditorium A"
+      time : "TBA"
+
     - speaker : "Yuzuru Shimada"
       speaker_image : "images/speakers/shimada.jpg"
       subject : "The Rule of Law for development"
+      venue : "Auditorium A"
+      time : "TBA"
+
+    - speaker : "Sanae Ito"
+      speaker_image : "images/speakers/ito.jpg"
+      subject : "Social protection in the age of pandemic"
       venue : "Auditorium A"
       time : "TBA"
 
