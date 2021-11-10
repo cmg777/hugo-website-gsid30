@@ -71,7 +71,7 @@ url = "/"
 weight = 10
 
 [[menu.main]]
-name = "About"
+name = "Welcome"
 url = "about"
 weight = 20
 
@@ -89,6 +89,11 @@ weight = 35
 #name = "Event Schedule"
 #url = "schedule"
 #weight = 38
+
+[[menu.main]]
+name = "About GSID"
+url = "https://www4.gsid.nagoya-u.ac.jp/en/"
+weight = 40
 
 #[[menu.main]]
 #name = "Announcements"
