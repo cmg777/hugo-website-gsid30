@@ -17,5 +17,7 @@ Established in 1991 at Nagoya University in Japan, GSID is a pioneering and lead
 Add more content ...
 
 Aya Okada, Ph.D.
+
 Dean and Professor
+
 Graduate School of International Development
