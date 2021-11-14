@@ -258,7 +258,7 @@ call_to_action:
 sponsors:
   enable : true
   title : "Our _Sponsors_"
-  content : "We are grateful for the cooperation and support of the following organizations: X, Y, Z"
+  content : "We are grateful for the cooperation and support of the following organizations: Nagoya University's Program for Promoting the Enhancement of Research Universities, Nagoya University Alumni Association (NUAL), and Nagoya University International Student Support Projects"
   button:
     enable : false
     label : "Become a sponsor"
