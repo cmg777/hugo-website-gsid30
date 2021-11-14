@@ -90,10 +90,21 @@ weight = 35
 #url = "schedule"
 #weight = 38
 
+
 [[menu.main]]
 name = "About GSID"
 url = "https://www4.gsid.nagoya-u.ac.jp/en/general/features"
 weight = 40
+
+[[menu.main]]
+name = "Online Events"
+url = "https://lu.ma/gsid"
+weight = 45
+
+[[menu.main]]
+name = "GSID 30 Registration page"
+url = "https://lu.ma/gsid30"
+weight = 46
 
 
 #[[menu.main]]
@@ -205,10 +216,10 @@ title = "facebook"
 icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://www.facebook.com/staffer.iss"
 
-[[params.social]]
-title = "twitter"
-icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+#[[params.social]]
+#title = "twitter"
+#icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+#link = "#"
 
 #[[params.social]]
 #title = "instagram"
@@ -219,6 +230,11 @@ link = "#"
 title = "research"
 icon = "fa-graduation-cap" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://www4.gsid.nagoya-u.ac.jp/en/"
+
+[[params.social]]
+title = "onlineEvents"
+icon = "fa-desktop" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://lu.ma/gsid"
 
 #[[params.social]]
 #title = "linkedin"
