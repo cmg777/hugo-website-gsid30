@@ -11,6 +11,7 @@ image : "images/speakers/featured-speaker-two.jpg"
 
 The organizational committee of the 2022 GSID international conference invites the worldwide community of scholars and the GSID community to present and their research findinds in the following thematic areas:   
 
+- Promoting Gender Equality in Education and Employment
 - Africa as the center for global change
 - Social protection in the age of pandemic
 - Migration and development
