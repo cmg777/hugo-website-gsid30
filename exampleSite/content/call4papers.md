@@ -27,8 +27,8 @@ The organizational committee of the 2022 GSID international conference invites t
 
 ### Important dates
 
-- Extended abstract submission deadline: December 20th, 2021.
-- Notification of abstract acceptance: January 15th, 2022.
+- Extended abstract submission deadline: January 14th, 2022.
+- Notification of abstract acceptance: January 21st, 2022.
 - Conference registration deadline: February 5th, 2022.
 - Conference dates: February 5th to 9th, 2022.
   
