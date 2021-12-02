@@ -249,7 +249,7 @@ call_to_action:
   enable : true
   title : "Registration is _open!_"
   image : "images/speakers/speaker-ticket.png"
-  content : "Register free of charge."
+  content : "Register for free: Academic sessions (Feb. 5-9, 2022) and International Symposium (Feb. 10, 2022) "
   button:
     enable : true
     label : "Register here"
