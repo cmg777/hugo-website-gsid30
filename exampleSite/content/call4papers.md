@@ -11,17 +11,16 @@ image : "images/speakers/featured-speaker-two.jpg"
 
 The organizational committee of the 2022 GSID international conference invites the worldwide community of scholars and the GSID community to present and their research findinds in the following thematic areas:   
 
-- Promoting Gender Equality in Education and Employment
+- Economic growth, poverty, and inequality
+- The rule of law for development
+- Toward gender equality in education and employment 
 - Africa as the center for global change
 - Social protection in the age of pandemic
 - Migration and development
 - Peace and governance
-- Gender and development
-- Economic growth, poverty, and inequality
-- The rule of law for development
+- Afghanistan in crisis: Implications for development
 - Sustainable development and spatial data science
 - Local perceptions to energy and resource development in developing countries
-- Afghanistan in crisis: Implications for peace, governance and development
 - Promoting education during conflicts, disasters, and pandemics
 - The social sector Under COVID-19: Health and Welfare
 
