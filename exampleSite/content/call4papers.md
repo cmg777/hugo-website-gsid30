@@ -18,11 +18,11 @@ The organizational committee of the 2022 GSID international conference invites t
 - Social protection in the age of pandemic
 - Migration and development
 - Peace and governance
-- Afghanistan in crisis: Implications for development
+- Afghanistan in crisis
 - Sustainable development and spatial data science
 - Local perceptions to energy and resource development in developing countries
 - Promoting education during conflicts, disasters, and pandemics
-- The social sector under COVID-19: Health and welfare
+- The social sector under COVID-19: health and welfare
 
 ### Important dates
 
