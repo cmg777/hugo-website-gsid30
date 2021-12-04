@@ -45,9 +45,9 @@ Best wishes,
 <br><br>
 
 Aya Okada, Ph.D.
-<br><br>
+<br>
 Dean, Graduate School of International Development
-<br><br>
+<br>
 Nagoya University
 
 

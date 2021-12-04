@@ -22,7 +22,7 @@ The organizational committee of the 2022 GSID international conference invites t
 - Sustainable development and spatial data science
 - Local perceptions to energy and resource development in developing countries
 - Promoting education during conflicts, disasters, and pandemics
-- The social sector Under COVID-19: Health and Welfare
+- The social sector under COVID-19: Health and welfare
 
 ### Important dates
 
@@ -31,12 +31,13 @@ The organizational committee of the 2022 GSID international conference invites t
 - Conference registration deadline: February 5th, 2022.
 - Conference dates: February 5th to 9th, 2022.
   
-Authors of the best abstracts and presentations will be invided to submit and publish their findings in a special issue of the [Forum of International Development Studies](https://www4.gsid.nagoya-u.ac.jp/en/research/publications)
+Authors of the best abstracts and presentations will be invided to submit and publish their findings in a special issue of the [Forum of International Development Studies.](https://www4.gsid.nagoya-u.ac.jp/en/research/publications)
 
-
+<br><br>
 ### Abstract submission form 
 
 - [_CLICK HERE to submit your abstract_](https://docs.google.com/forms/d/e/1FAIpQLSd748_Hr0vEjXIOPUZLMNUki-_RuLyWUg2aYQuaYHArVxpggw/viewform?usp=sf_link)
 
+<br><br>
 ### Further inequires
 Please send an email to carlos@gsid.nagoya-u.ac.jp
