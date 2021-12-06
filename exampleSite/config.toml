@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://gsid30.org"
 title = "GSID30th | Anniversary"
 theme = "eventre-hugo"
 themesDir = "../.."
@@ -151,7 +151,7 @@ weight = 46
   #parent = "Pages"
   #name = "Testimonial"
   #url = "testimonial"
-  
+
 #[[menu.main]]
 #name = "Contact"
 #url = "https://lu.ma/gsid30"
