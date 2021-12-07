@@ -15,14 +15,13 @@ The organizational committee of the 2022 GSID international conference invites t
 - The rule of law for development
 - Toward gender equality in education and employment 
 - Africa as the center for global change
-- Social protection in the age of pandemic
+- Social protection under COVID-19: health, welfare and human rights
 - Migration and development
 - Peace and governance
 - Afghanistan in crisis
 - Sustainable development and spatial data science
 - Local perceptions to energy and resource development in developing countries
 - Promoting education during conflicts, disasters, and pandemics
-- The social sector under COVID-19: health and welfare
 
 ### Important dates
 
