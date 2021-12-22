@@ -9,7 +9,7 @@ image : "images/speakers/featured-speaker-two.jpg"
 ---
 ## Call for papers
 
-The organizational committee of the 2022 GSID international conference invites the worldwide community of scholars and the GSID community to present and their research findinds in the following thematic areas:   
+The organizational committee of the 2022 GSID international conference invites the worldwide community of scholars and the GSID community to present and their research findings in the following thematic areas:   
 
 - Economic growth, poverty, and inequality
 - The rule of law for development
