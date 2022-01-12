@@ -11,6 +11,8 @@ image : ""
 
 ## Tentative program _International Symposium_
 
-we put the pictures
+<img src="images/sympo1.png" alt="Description for image" width="600" height="900">
 
 
+
+<img src="images/sympo2.png" alt="Description for image" width="600" height="900">
