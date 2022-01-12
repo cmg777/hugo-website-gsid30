@@ -11,7 +11,7 @@ image : ""
 
 ## Tentative program _International Symposium_
 
-Here are the pics
+Remove layout
 
 <img src="https://monosnap.com/image/RVmmymfn3WJri7LCUKLHOrtkyzE6fK"/>
 
