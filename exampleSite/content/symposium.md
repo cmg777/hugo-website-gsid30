@@ -2,7 +2,7 @@
 title : ""
 page_header_bg : ""
 date: 2020-03-14T15:40:24+06:00
-description : "International Symposium Feb. 10th, 2022"
+description : ""
 draft : false
 layout : "faq"
 image : ""
@@ -11,5 +11,5 @@ image : ""
 
 ## _Tentative program:_ 
 
-<img src="https://monosnap.com/image/RVmmymfn3WJri7LCUKLHOrtkyzE6fK.png" alt="Description for image" width="100%" height="900">
-<img src="https://monosnap.com/image/CjPoFvfkzr7dV0EFzTK9miIxQyn39C.png" alt="Description for image" width="100%" height="900">
+<img src="https://monosnap.com/image/RVmmymfn3WJri7LCUKLHOrtkyzE6fK.png" alt="Description for image" width="700" height="1200">
+<img src="https://monosnap.com/image/CjPoFvfkzr7dV0EFzTK9miIxQyn39C.png" alt="Description for image" width="700" height="1200">
