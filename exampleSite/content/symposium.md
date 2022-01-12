@@ -11,6 +11,30 @@ image : ""
 
 ## _Tentative program:_ 
 
+<style>
+.container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 95%; /* 75% = 4:3 Aspect Ratio */
+}
 
-<img src="https://monosnap.com/image/RVmmymfn3WJri7LCUKLHOrtkyzE6fK.png" alt="Description for image" width="900" height="1200">
-<img src="https://monosnap.com/image/CjPoFvfkzr7dV0EFzTK9miIxQyn39C.png" alt="Description for image" width="900" height="1200">
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+</style>
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://monosnap.com/image/RVmmymfn3WJri7LCUKLHOrtkyzE6fK"></iframe>
+</div>
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://monosnap.com/image/CjPoFvfkzr7dV0EFzTK9miIxQyn39C"></iframe>
+</div>
