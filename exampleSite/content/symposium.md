@@ -12,6 +12,5 @@ image : ""
 ## Tentative program _International Symposium_
 
 
-
 <img src="https://monosnap.com/image/RVmmymfn3WJri7LCUKLHOrtkyzE6fK.png" alt="Description for image" width="600" height="900">
 <img src="https://monosnap.com/image/CjPoFvfkzr7dV0EFzTK9miIxQyn39C.png" alt="Description for image" width="600" height="900">
