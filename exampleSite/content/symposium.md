@@ -11,8 +11,8 @@ image : ""
 
 ## Tentative program _International Symposium_
 
-<img src="images/sympo1.png" alt="Description for image" width="600" height="900">
+<img src="sympo1.png" alt="Description for image" width="600" height="900">
 
+<br><br>
 
-
-<img src="images/sympo2.png" alt="Description for image" width="600" height="900">
+<img src="sympo2.png" alt="Description for image" width="600" height="900">
