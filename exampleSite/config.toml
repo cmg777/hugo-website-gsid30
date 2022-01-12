@@ -75,6 +75,11 @@ name = "Welcome"
 url = "about"
 weight = 20
 
+[[menu.main]]
+name = "Symposium"
+url = "symposium"
+weight = 25
+
 #[[menu.main]]
 #name = "Keynote speakers"
 #url = "speaker"
@@ -91,10 +96,10 @@ weight = 35
 #weight = 38
 
 
-[[menu.main]]
-name = "About GSID"
-url = "https://www4.gsid.nagoya-u.ac.jp/en/general/features"
-weight = 40
+#[[menu.main]]
+#name = "About GSID"
+#url = "https://www4.gsid.nagoya-u.ac.jp/en/general/features"
+#weight = 40
 
 [[menu.main]]
 name = "Online Events"
