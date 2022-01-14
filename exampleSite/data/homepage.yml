@@ -41,6 +41,10 @@ about:
     enable : true
     label : "Read more"
     link : "about"
+  button_solid:
+    enable : true
+    label : "Symposium registration"
+    link : "https://lu.ma/gsid30"
 
     
 ################# Speaker ###################
@@ -255,16 +259,12 @@ registration:
 ############### Call to action1 ############
 call_to_action:
   enable : true
-  title : "Registration is _open!_"
+  title : "JOIN our _GSID30 community!_"
   image : "images/speakers/speaker-ticket.png"
   content : "Registration for the GSID30 online community"
   button:
     enable : true
     label : "Register here"
-    link : "https://lu.ma/gsid30"
-  button:
-    enable : true
-    label : "Register here2"
     link : "https://lu.ma/gsid30"
 
 
