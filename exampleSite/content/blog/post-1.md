@@ -5,8 +5,8 @@ date: 2021-10-01T15:40:24+06:00
 image: "images/news/post-thumb-four.jpg"
 author: "Admin"
 author_id: "https://linkedin.com/in/#"
-tags: ["business", "events"]
-categories: ["events", "creative"]
+tags: ["call4papers", "events"]
+categories: ["events", "call4papers"]
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
 draft : false
 ---
