@@ -2,7 +2,7 @@
 title : "Registration for GSID30 is open"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-image: "images/news/post-thumb-two.jpg"
+image: "images/news/GSID_30th_logo.png"
 author: "Admin"
 author_id: "https://linkedin.com/in/#"
 tags: ["registration", "events"]
@@ -28,5 +28,5 @@ Dear GSID community,
 ​Join us to celebrate GSID’s 30th anniversary and participate in these exciting events! 
 
 ​The organizational committee of GSID’s 30th Anniversary
-
+s
 ​(For inquires about the organization of the event, please send an email to gsid30th@gmail.com)
