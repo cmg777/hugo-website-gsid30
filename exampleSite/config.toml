@@ -113,17 +113,15 @@ url = "https://lu.ma/gsid"
 weight = 45
 
 [[menu.main]]
-name = "GSID30 Registration page"
+name = "GSID30 community"
 url = "https://lu.ma/gsid30"
 weight = 46
-
-
-
 
 [[menu.main]]
 name = "Gallery"
 url = "gallery"
-weight = 41
+weight = 48
+
 
 #[[menu.main]]
 #name = "FAQ"
