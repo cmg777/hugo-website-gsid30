@@ -11,7 +11,7 @@ banner:
     day : 5
   button:
     enable : false
-    label : "Register"
+    label : "Join GSID30!"
     link : "https://lu.ma/gsid30"
 
     
