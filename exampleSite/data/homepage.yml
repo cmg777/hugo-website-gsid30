@@ -231,10 +231,10 @@ tab:
 
 ############ Registration ####################
 registration:
-  enable : false
-  title : "Register to _Eventre_"
+  enable : true
+  title : "Registration for the _international symposium_"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
-  form_action : "#" # works with formspree.io
+  form_action : "https://zoom.us/webinar/register/WN_vIY7w6OTTbyWt1FRZ6my8w" # works with formspree.io
 
   funfacts:
   - name : "8 Speakers"
