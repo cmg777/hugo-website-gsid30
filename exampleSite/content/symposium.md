@@ -1,5 +1,5 @@
 ---
-title : ""
+title : "GSID30 International Symposium"
 page_header_bg : ""
 date: 2020-03-14T15:40:24+06:00
 description : ""
@@ -10,7 +10,7 @@ image : "images/QR_code_for_GSID30_sympos.jpg"
 ---
 
 
-<img src="https://monosnap.com/image/iImwIYTGsk0OaIJcdxPWDa7P60Wzr0" alt="Description for image" width="600" height="400">
+<img src="https://monosnap.com/image/iImwIYTGsk0OaIJcdxPWDa7P60Wzr0" alt="Description for image" width="700" height="500">
 
 
 <br><br>

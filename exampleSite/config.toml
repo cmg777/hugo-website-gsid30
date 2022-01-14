@@ -91,10 +91,10 @@ weight = 25
 #url = "speaker"
 #weight = 30
 
-[[menu.main]]
-name = "Call for papers"
-url = "call4papers"
-weight = 99
+#[[menu.main]]
+#name = "Call for papers"
+#url = "call4papers"
+#weight = 99
 
 #[[menu.main]]
 #name = "Event Schedule"

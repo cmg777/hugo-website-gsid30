@@ -11,7 +11,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores
 draft : false
 ---
 
-<img src="https://monosnap.com/image/iImwIYTGsk0OaIJcdxPWDa7P60Wzr0" alt="Description for image" width="600" height="400">
+<img src="https://monosnap.com/image/iImwIYTGsk0OaIJcdxPWDa7P60Wzr0" alt="Description for image" width="700" height="500">
 
 ## _Registration page:_ 
 
