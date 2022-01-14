@@ -4,14 +4,14 @@ page_header_bg : ""
 date: 2020-03-14T15:40:24+06:00
 description : ""
 draft : false
-layout : "pricing"
+layout : "faq"
 image : "images/QR_code_for_GSID30_sympos.jpg"
 
 ---
 
 ## _Registration page:_ 
 
-
+<br><br>
 - - - - - - - - - - - - - - -- - - - - - - - - - - - -
 Registration page: <https://zoom.us/webinar/register/WN_vIY7w6OTTbyWt1FRZ6my8w>
 - - - - - - - - - - - - - - -- - - - - - - - - - - - -
@@ -94,3 +94,8 @@ Moderator: Dr. Aya Okada, Dean & Professor, GSID, Nagoya University
 Dr. Naoshi Sugiyama, Provost (Supervision and Research), Nagoya University
 
 - - - - - - - - - - - - - - -- - - - - - - - - - - - -
+
+
+Is this working
+
+![](images/QR_code_for_GSID30_sympos.jpgs)
