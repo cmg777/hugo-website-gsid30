@@ -1,27 +1,32 @@
 ---
-title : "Registration is open"
+title : "Registration for GSID30 is open"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 image: "images/news/post-thumb-two.jpg"
 author: "Admin"
 author_id: "https://linkedin.com/in/#"
-tags: ["business", "events"]
-categories: ["events", "creative"]
+tags: ["registration", "events"]
+categories: ["events", "registration"]
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
 draft : false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo conse
-quat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Dear GSID community, 
 
+​We are pleased to announce that to commemorate the 30th anniversary of GSID, we will organize a series of special events. First, it will run a five-day online academic conference from February 5 through February 9, 2022.  We will also hold an international symposium on February 10, 2022. This symposium will consider the effects of the pandemic on development research and teaching in the post-Covid 19 era.  
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+​Starting today, registration to participate in these events is open to the general public. Please visit our website at https://gsid30.org and register early to be updated on the latest announcements. Your registration gives you immediate access to a virtual space where you can sign up for events, meet other participants and access materials related to GSID's 30th anniversary.  
 
+​Finally, in addition to the main homepage of the event, we kindly invite you to revise the following sections:
 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
-quaerat voluptatem.
+​- Welcome message from the dean of GSID: https://gsid30.org/about
 
+​- Call for academic papers: https://gsid30.org/call4papers
 
->Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.
+​- Registration page and virtual community: https://lu.ma/gsid30 
 
-Amet consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo conse
+​Join us to celebrate GSID’s 30th anniversary and participate in these exciting events! 
+
+​The organizational committee of GSID’s 30th Anniversary
+
+​(For inquires about the organization of the event, please send an email to gsid30th@gmail.com)
