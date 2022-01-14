@@ -119,10 +119,10 @@ weight = 46
 
 
 
-[[menu.main]]
-name = "Gallery"
-url = "gallery"
-weight = 41
+#[[menu.main]]
+#name = "Gallery"
+#url = "gallery"
+#weight = 41
 
 #[[menu.main]]
 #name = "FAQ"
