@@ -76,6 +76,12 @@ url = "about"
 weight = 20
 
 [[menu.main]]
+name = "Announcements"
+url = "blog"
+weight = 22
+
+
+[[menu.main]]
 name = "Symposium"
 url = "symposium"
 weight = 25
@@ -112,15 +118,12 @@ url = "https://lu.ma/gsid30"
 weight = 46
 
 
-#[[menu.main]]
-#name = "Announcements"
-#url = "blog"
-#weight = 40
 
-#[[menu.main]]
-#name = "Gallery"
-#url = "gallery"
-#weight = 41
+
+[[menu.main]]
+name = "Gallery"
+url = "gallery"
+weight = 41
 
 #[[menu.main]]
 #name = "FAQ"
