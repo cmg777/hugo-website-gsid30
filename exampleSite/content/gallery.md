@@ -11,8 +11,8 @@ gallery_items:
   categories: ["meeting", "concert"]
   
 - name : "gallery item"
-  image: "images/gallery/gallery-popup-two.jpg"
-  categories: ["events", "meeting"]
+  image: "https://youtu.be/KoFOK0wkiW8"
+  categories: ["events", "video"]
   
 - name : "gallery item"
   image: "images/gallery/gallery-popup-three.jpg"
