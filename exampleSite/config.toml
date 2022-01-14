@@ -90,6 +90,11 @@ name = "Call for papers"
 url = "call4papers"
 weight = 35
 
+[[menu.main]]
+name = "Announcements"
+url = "blog"
+weight = 36
+
 #[[menu.main]]
 #name = "Event Schedule"
 #url = "schedule"
@@ -107,15 +112,11 @@ url = "https://lu.ma/gsid"
 weight = 45
 
 [[menu.main]]
-name = "GSID 30 Registration page"
+name = "GSID30 community"
 url = "https://lu.ma/gsid30"
 weight = 46
 
 
-#[[menu.main]]
-#name = "Announcements"
-#url = "blog"
-#weight = 40
 
 #[[menu.main]]
 #name = "Gallery"
