@@ -11,17 +11,11 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores
 draft : false
 ---
 
+<img src="https://monosnap.com/image/iImwIYTGsk0OaIJcdxPWDa7P60Wzr0" alt="Description for image" width="600" height="400">
+
 ## _Registration page:_ 
 
-<br><br>
-
 Registration link: <https://zoom.us/webinar/register/WN_vIY7w6OTTbyWt1FRZ6my8w>
-
-<br><br>
-
-<img src="https://monosnap.com/image/L2E4IiOMEYwuoo7sYb7KZbN0lVMILb"/>
-
-<br><br>
 
 Note: Even if you finished the registration to join the GSID30 online community, a separate registration for the international syposiem is needed.  
 

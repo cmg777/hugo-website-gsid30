@@ -10,17 +10,14 @@ image : "images/QR_code_for_GSID30_sympos.jpg"
 ---
 
 
-## _Registration page:_ 
+<img src="https://monosnap.com/image/iImwIYTGsk0OaIJcdxPWDa7P60Wzr0" alt="Description for image" width="600" height="400">
 
-<br><br>
-
-<img src="https://monosnap.com/image/iImwIYTGsk0OaIJcdxPWDa7P60Wzr0"/>
 
 <br><br>
 
 Note: Even if you finished the registration to join the GSID30 community, a separate registration is needed for the international symposium.  Please register here: <https://zoom.us/webinar/register/WN_vIY7w6OTTbyWt1FRZ6my8w> or use the above QR code.
 
-## Tenative program
+## Tenative program:
 
 <img src="https://monosnap.com/image/RVmmymfn3WJri7LCUKLHOrtkyzE6fK.png" alt="Description for image" width="700" height="1200">
 <img src="https://monosnap.com/image/CjPoFvfkzr7dV0EFzTK9miIxQyn39C.png" alt="Description for image" width="700" height="1200">
