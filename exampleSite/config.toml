@@ -94,7 +94,7 @@ weight = 25
 [[menu.main]]
 name = "Call for papers"
 url = "call4papers"
-weight = 35
+weight = 99
 
 #[[menu.main]]
 #name = "Event Schedule"
@@ -118,7 +118,7 @@ url = "https://lu.ma/gsid30"
 weight = 46
 
 [[menu.main]]
-name = "Gallery"
+name = "Photos"
 url = "gallery"
 weight = 48
 
