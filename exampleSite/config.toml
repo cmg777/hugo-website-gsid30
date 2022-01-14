@@ -78,7 +78,7 @@ weight = 20
 [[menu.main]]
 name = "Announcements"
 url = "blog"
-weight = 22
+weight = 90
 
 
 [[menu.main]]
@@ -120,7 +120,7 @@ weight = 46
 [[menu.main]]
 name = "Photos"
 url = "gallery"
-weight = 48
+weight = 99
 
 
 #[[menu.main]]
