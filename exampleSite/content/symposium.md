@@ -4,7 +4,7 @@ page_header_bg : ""
 date: 2020-03-14T15:40:24+06:00
 description : ""
 draft : false
-layout : "faq"
+layout : "pricing"
 image : "images/QR_code_for_GSID30_sympos.jpg"
 
 ---
