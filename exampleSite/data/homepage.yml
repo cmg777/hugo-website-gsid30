@@ -231,7 +231,7 @@ tab:
 
 ############ Registration ####################
 registration:
-  enable : true
+  enable : false
   title : "Registration for the _international symposium_"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
   form_action : "https://zoom.us/webinar/register/WN_vIY7w6OTTbyWt1FRZ6my8w" # works with formspree.io
@@ -262,8 +262,10 @@ call_to_action:
     enable : true
     label : "Register here"
     link : "https://lu.ma/gsid30"
-  
-
+  button:
+    enable : true
+    label : "Register here2"
+    link : "https://lu.ma/gsid30"
 
 
 
