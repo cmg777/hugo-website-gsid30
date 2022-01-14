@@ -258,7 +258,7 @@ call_to_action:
   enable : true
   title : "JOIN our _GSID30 community!_"
   image : "images/speakers/speaker-ticket.png"
-  content : "The GSID30 online community a virtual space where you can sign up for events, meet other participants, and access materials related to GSID's 30th anniversary."
+  content : "The GSID30 online community is a virtual space where you can sign up for events, meet other participants, and access materials related to GSID's 30th anniversary."
   button:
     enable : true
     label : "Register here"
