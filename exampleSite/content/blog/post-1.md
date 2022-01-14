@@ -1,7 +1,7 @@
 ---
 title : "Call for papers"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2021-10-01T15:40:24+06:00
+date: 2021-11-12T15:40:24+06:00
 image: "images/news/post-thumb-four.jpg"
 author: "Admin"
 author_id: "https://linkedin.com/in/#"
