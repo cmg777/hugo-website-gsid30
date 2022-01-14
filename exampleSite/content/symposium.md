@@ -9,6 +9,16 @@ image : ""
 
 ---
 
+## _Registration page:_ 
+
+Registration link: <https://zoom.us/webinar/register/WN_vIY7w6OTTbyWt1FRZ6my8w>
+<br><br>
+
+<img src="https://monosnap.com/image/L2E4IiOMEYwuoo7sYb7KZbN0lVMILb"/>
+
+<br><br>
+Note: Even if you finished the registration to join the GSID30 community, a separate registration for the international syposiem is needed.  
+
 ## _Tentative program:_ 
 
 <img src="https://monosnap.com/image/RVmmymfn3WJri7LCUKLHOrtkyzE6fK.png" alt="Description for image" width="700" height="1200">
