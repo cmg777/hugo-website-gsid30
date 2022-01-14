@@ -1,5 +1,5 @@
 ---
-title : "Registration for GSID30 is open"
+title : "Registration: GSID30 online community"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2021-11-10T15:40:24+06:00
 image: "images/news/GSID_30th_logo.png"
