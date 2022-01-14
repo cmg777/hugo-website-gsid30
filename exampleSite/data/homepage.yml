@@ -252,7 +252,19 @@ registration:
 
 
 
-############### Call to action ############
+############### Call to action1 ############
+call_to_action:
+  enable : true
+  title : "Registration is _open!_"
+  image : "images/speakers/speaker-ticket.png"
+  content : "Register for free: Academic sessions (Feb. 5-9, 2022) and International Symposium (Feb. 10, 2022) "
+  button:
+    enable : true
+    label : "Register here"
+    link : "https://lu.ma/gsid30"
+
+
+############### Call to action2 ############
 call_to_action:
   enable : true
   title : "Registration is _open!_"
