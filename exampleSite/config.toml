@@ -76,25 +76,19 @@ url = "about"
 weight = 20
 
 [[menu.main]]
-name = "Announcements"
-url = "blog"
-weight = 23
-
-[[menu.main]]
-name = "Call for papers"
-url = "call4papers"
-weight = 28
-
-[[menu.main]]
 name = "Symposium"
 url = "symposium"
-weight = 30
+weight = 25
 
 #[[menu.main]]
 #name = "Keynote speakers"
 #url = "speaker"
-#weight = 35
+#weight = 30
 
+[[menu.main]]
+name = "Call for papers"
+url = "call4papers"
+weight = 35
 
 #[[menu.main]]
 #name = "Event Schedule"
@@ -113,11 +107,15 @@ url = "https://lu.ma/gsid"
 weight = 45
 
 [[menu.main]]
-name = "GSID30 community"
+name = "GSID30 Registration page"
 url = "https://lu.ma/gsid30"
 weight = 46
 
 
+#[[menu.main]]
+#name = "Announcements"
+#url = "blog"
+#weight = 40
 
 #[[menu.main]]
 #name = "Gallery"
