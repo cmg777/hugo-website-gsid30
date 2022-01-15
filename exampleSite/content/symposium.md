@@ -10,7 +10,7 @@ image : "images/QR_code_for_GSID30_sympos.jpg"
 ---
 
 
-<img src="https://monosnap.com/image/iImwIYTGsk0OaIJcdxPWDa7P60Wzr0" alt="Description for image" width="100%" height="600">
+<img src="https://monosnap.com/image/QanHIbJTg5L3tWRnsNQGRp9tVSvcvi" alt="Description for image" width="100%" height="600">
 
 
 <br><br>
