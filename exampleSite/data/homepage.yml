@@ -11,7 +11,7 @@ banner:
     day : 5
   button:
     enable : false
-    label : "Register"
+    label : "Join GSID30!"
     link : "https://lu.ma/gsid30"
 
     
@@ -35,12 +35,13 @@ about:
   Nagoya University"
   button_solid:
     enable : true
-    label : "Join us"
-    link : "https://lu.ma/gsid30"
+    label : "Symposium registration"
+    link : "https://zoom.us/webinar/register/WN_vIY7w6OTTbyWt1FRZ6my8w"
   button_outline:
     enable : true
     label : "Read more"
     link : "about"
+
 
     
 ################# Speaker ###################
@@ -232,9 +233,9 @@ tab:
 ############ Registration ####################
 registration:
   enable : false
-  title : "Register to _Eventre_"
+  title : "Registration for the _international symposium_"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
-  form_action : "#" # works with formspree.io
+  form_action : "https://zoom.us/webinar/register/WN_vIY7w6OTTbyWt1FRZ6my8w" # works with formspree.io
 
   funfacts:
   - name : "8 Speakers"
@@ -252,16 +253,18 @@ registration:
 
 
 
-############### Call to action ############
+############### Call to action1 ############
 call_to_action:
   enable : true
-  title : "Registration is _open!_"
+  title : "JOIN our _GSID30 community!_"
   image : "images/speakers/speaker-ticket.png"
-  content : "Register for free: Academic sessions (Feb. 5-9, 2022) and International Symposium (Feb. 10, 2022) "
+  content : "The GSID30 online community is a virtual space where you can sign up for events, meet other participants, and access materials related to GSID's 30th anniversary."
   button:
     enable : true
     label : "Register here"
     link : "https://lu.ma/gsid30"
+
+
 
 
 ############### Sponsors ##################
