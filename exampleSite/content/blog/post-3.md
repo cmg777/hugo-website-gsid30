@@ -2,7 +2,7 @@
 title : "Registration: GSID30 International Symposium (Feb. 10th)"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2022-01-13T15:40:24+06:00
-image: "images/Sympo.png"
+image: "images/Sympo22.jpeg"
 author: "Admin"
 author_id: "https://zoom.us/webinar/register/WN_vIY7w6OTTbyWt1FRZ6my8w"
 tags: ["registration", "events"]
