@@ -15,7 +15,7 @@ image : "images/QR_code_for_GSID30_sympos.jpg"
 
 <br><br>
 
-> _Note:_ Even if you finished the registration to join the GSID30 community, a separate registration is needed for the international symposium.  Please register here: <https://zoom.us/webinar/register/WN_vIY7w6OTTbyWt1FRZ6my8w> or use the above QR code.
+> _Note:_ Even if you finished the registration to join the GSID30 community, a separate registration is needed for the international symposium.  Please register here: <http://bit.ly/3nDZQA1> or use the above QR code.
 
 ## Tenative program:
 

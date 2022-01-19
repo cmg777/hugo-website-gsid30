@@ -13,7 +13,7 @@ draft : false
 
 ## _Registration page:_ 
 
-Registration link: <https://zoom.us/webinar/register/WN_vIY7w6OTTbyWt1FRZ6my8w>
+Registration link: <http://bit.ly/3nDZQA1>
 
 *Note:* Even if you finished the registration to join the GSID30 online community, a separate registration for the international symposium is needed.  
 
