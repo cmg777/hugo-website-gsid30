@@ -20,5 +20,5 @@ Registration link: <http://bit.ly/3nDZQA1>
 
 ## _Program:_ 
 
-<img src="https://monosnap.com/image/bMgfuk8zLH8Cgmq8NHvP9Px0PVtASP.png" alt="Description for image" width="600" height="1200">
-<img src="https://monosnap.com/image/b0DdjGlwgkvWaRmqCqOVyajQEPvi2Z.png" alt="Description for image" width="600" height="1200">
+<img src="https://monosnap.com/image/bMgfuk8zLH8Cgmq8NHvP9Px0PVtASP.png" alt="Description for image" width="600" height="1100">
+<img src="https://monosnap.com/image/b0DdjGlwgkvWaRmqCqOVyajQEPvi2Z.png" alt="Description for image" width="600" height="1100">
