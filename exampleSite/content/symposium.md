@@ -19,6 +19,6 @@ image : "images/QR_code_for_GSID30_sympos.jpg"
 
 ## Program:
 
-<img src="https://monosnap.com/image/bMgfuk8zLH8Cgmq8NHvP9Px0PVtASP.png" alt="Description for image" width="700" height="1100">
-<img src="https://monosnap.com/image/b0DdjGlwgkvWaRmqCqOVyajQEPvi2Z.png" alt="Description for image" width="700" height="1100">
+<img src="https://monosnap.com/image/SesB3RrIViAbU2xaAAI6FwvuEQbIt1" alt="Description for image" width="700" height="1100">
+<img src="https://monosnap.com/image/vBSG1BzAYPy6kAfHWU736XXci6sICx" alt="Description for image" width="700" height="1100">
 
