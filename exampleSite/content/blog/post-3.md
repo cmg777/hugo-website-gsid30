@@ -18,8 +18,7 @@ Registration link: <http://bit.ly/3nDZQA1>
 *Note:* Even if you finished the registration to join the GSID30 online community, a separate registration for the international symposium is needed.  
 
 
-## _Tentative program:_ 
+## _Program:_ 
 
-<img src="https://monosnap.com/image/RVmmymfn3WJri7LCUKLHOrtkyzE6fK.png" alt="Description for image" width="600" height="1200">
-<img src="https://monosnap.com/image/CjPoFvfkzr7dV0EFzTK9miIxQyn39C.png" alt="Description for image" width="600" height="1200">
-
+<img src="https://monosnap.com/image/bMgfuk8zLH8Cgmq8NHvP9Px0PVtASP.png" alt="Description for image" width="600" height="1100">
+<img src="https://monosnap.com/image/b0DdjGlwgkvWaRmqCqOVyajQEPvi2Z.png" alt="Description for image" width="600" height="1100">
